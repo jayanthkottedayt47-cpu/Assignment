@@ -47,7 +47,7 @@ src
 Clone the repository:
 
 ```
-git clone https://github.com/
+git clone https://github.com/jayanthkottedayt47-cpu/Assignment.git
 ```
 
 Navigate to the project folder:
